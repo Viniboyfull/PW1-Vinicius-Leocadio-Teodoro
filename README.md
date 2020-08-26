@@ -1,2 +1,10 @@
-# PW1-Vinicius-Leocadio-Teodoro
-Aulas de PW1 do Professor João e Professor Antônio
+Curso de Desenvolvimento de Sistemas 1 Semestre 2020
+
+-Extensões utilizadas no VS Code
+- Color Hightlight
+- Code Runner
+- GitLens
+- Material Icon Theme
+- Open in browse
+- Path intellisense
+- Dracula (opc)
