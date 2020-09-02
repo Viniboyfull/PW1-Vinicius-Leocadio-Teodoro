@@ -1,23 +1,5 @@
-**Curso de Desenvolvimento de Sistemas 1 Semestre 2020**
+Curso de Desenvolvimento de Sistemas 1 Semestre 2020
+<p style= "font-size: 300%;"> - Vinicius Leocadio Teodoro </p>
 
-  
-
--**Extensões utilizadas no VS Code**
-
-- Color Hightlight
-
-- Code Runner
-
-- GitLens
-
-- Material Icon Theme
-
-- Open in browse
-
-- Path intellisense
-
-- Dracula (opc)
-
-  
-
-Castlevania is a great game
+- Desenvolvimento de Sistemas, Primeiro Semestre
+- Tenho 19 anos, Gosto muito de tecnologia e videogames, tenho interesse em trabalhar nessa área de tecnologia.
